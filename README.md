@@ -3,7 +3,7 @@
 ### What is it?
 
 The intention of this project is to wrap Twitter Bootstrap with GWT and Errai-UI components.
-If you need a demo on how to use it, look for the BootstrapUI-Demo project on Github  
+If you need a demo on how to use it, look for the BootstrapUI-Demo project on [Github](https://github.com/w0mbat/BootstrapUI-Demo)  
    
 
 ### Installation
